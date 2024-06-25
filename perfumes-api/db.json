@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Adrienne Landau",
+      "brand": "Adrienne Landau And cologne",
+      "category": "Women",
+      "price": 2274,
+      "description": "by Adrienne Landau Women's Fragrances",
+      "imageFilename": "image1.webp",
+      "createAt": "2023-07-13t17:46:54.89000000"
+    },
+    {
+      "id": 2,
+      "name": "Azzaro Chrome for men",
+      "brand": "Azzaro",
+      "category": "Male",
+      "price": 5675,
+      "description": "Longlasting masculine fragrance",
+      "imageFilename": "image2.jpg",
+      "createAt": "2014-05-07 t17:46:54.72020000"
+    },
+    {
+      "id": 3,
+      "name": "Adrienne",
+      "brand": "acee 22",
+      "category": "Other",
+      "price": "2264",
+      "description": "by Adrienne Landau Women's Fragrances",
+      "imageFilename": "1719229875492_image1.webp",
+      "createAt": "2023-07-13 t17:46:54.89000000"
+    },
+    {
+      "id": 4,
+      "name": "Skinn",
+      "brand": "Titan",
+      "category": "Male",
+      "price": 2444,
+      "description": "Skinn perfume by titian",
+      "imageFilename": "1719201092120_image3.jpg",
+      "createAt": "2024-06-24T03:51:32.125Z"
+     
+    },
+    {
+      "id": 5,
+      "name": "Denver",
+      "brand": "Denver deo",
+      "category": "Male",
+      "price": "999",
+      "description": "Denver",
+      "imageFilename": "img1.jpg",
+      "createAt": "2023-07-13 t17:46:54.89000000"
+    },
+    {
+      "id": 6,
+      "name": "Bvlgari",
+      "brand": "acee 22",
+      "category": "Unisex",
+      "price": "2299",
+      "description": "by Adrienne Landau Women's Fragrances",
+      "imageFilename": "img4.jpg",
+      "createAt": "2023-07-13 t17:46:54.89000000"
+    },
+    {
+      "id": 7,
+      "name": "GUCCI",
+      "brand": "GUCCI",
+      "category": "Female",
+      "price": "2999",
+      "description": "by Adrienne Landau Women's Fragrances",
+      "imageFilename": "img4.jpg",
+      "createAt": "2023-07-13 t17:46:54.89000000"
+    },
+    {
+      "id": 8,
+      "name": "SKINN",
+      "brand": "Titan",
+      "category": "Female",
+      "price": "2299",
+      "description": "Nude fragrances by titan",
+      "imageFilename": "img4.jpg",
+      "createAt": "2023-07-13 t17:46:54.89000000"
+    }
+  ]
+}
